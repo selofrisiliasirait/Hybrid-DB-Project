@@ -1,0 +1,6 @@
+dataset/
+*.csv
+*.pbix
+*.zip
+*.backup
+__pycache__/
