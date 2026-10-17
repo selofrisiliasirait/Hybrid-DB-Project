@@ -470,3 +470,6 @@ Proyek ini berhasil mengimplementasikan:
  ✅ Database Visualization
 
 dan memenuhi requirement utama tugas Capstone Project: Hybrid Database Architecture & ETL.
+
+Dataset Source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
